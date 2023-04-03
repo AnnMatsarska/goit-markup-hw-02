@@ -82,7 +82,8 @@ body {
   color: var(--text);
 }
 
-.header-contact:hover .header-contact:focus {
+.header-contact:hover,
+.header-contact:focus {
   color: var(--pressed-state);
   text-decoration: underline;
 }

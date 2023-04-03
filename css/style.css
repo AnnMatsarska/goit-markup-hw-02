@@ -92,6 +92,7 @@ body {
 
 .sub-item {
   font-size: 20px;
+  font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--dark);
@@ -143,9 +144,6 @@ body {
 
 /* feature section */
 
-.feature-list {
-  list-style: none;
-}
 .feature-item {
 }
 

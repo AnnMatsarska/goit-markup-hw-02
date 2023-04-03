@@ -150,9 +150,7 @@ body {
 /* Competences section */
 .compet-section {
 }
-.compet-list {
-  list-style: none;
-}
+
 .compet-item {
 }
 .compete-link {
@@ -163,9 +161,7 @@ body {
 .team-section {
   background: var(--light);
 }
-.team-list {
-  list-style: none;
-}
+
 .team-item {
 }
 .team-photo {

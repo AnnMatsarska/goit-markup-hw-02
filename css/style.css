@@ -186,11 +186,9 @@ body {
 /*service section*/
 .serv-section {
 }
-.serv-btn {
-  list-style: none;
-}
 
 .btn {
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -199,15 +197,13 @@ body {
   background: var(--light);
   cursor: pointer;
 }
+
 .btn:hover,
 .btn:focus {
   color: var(--white-background);
   background-color: var(--pressed-state);
 }
 
-.serv-section-list {
-  list-style: none;
-}
 .serv-link {
   text-decoration: none;
 }
